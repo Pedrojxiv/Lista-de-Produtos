@@ -1,5 +1,5 @@
 # Lista de compras
-A lista de compras possui funcionalidades basicas de manipulação de lista, bibliotecas, condições e estruturas que interagem com o usuário para pesquisar
+A lista de compras possui funcionalidades basicas de manipulação de lista, bibliotecas, condições e estruturas que interagem com o usuário para pesquisar,
 remover, adicionar e listar todos os produtos de uma lista simples
 
 # Sobre o desafio
